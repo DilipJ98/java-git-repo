@@ -5,7 +5,7 @@ public class NameClass  implements Name{
     }
 
     public static void main(String[] args) {
-        NameClass name = new NameClass();
-        name.details();
+        NameClass nameCLass = new NameClass();
+        nameCLass.details();
     }
 }

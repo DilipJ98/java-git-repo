@@ -7,6 +7,5 @@ public class NameClass  implements Name{
     public static void main(String[] args) {
         NameClass nameCLass = new NameClass();
         nameCLass.details();
-        //this is from main branch
     }
 }

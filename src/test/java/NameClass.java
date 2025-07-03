@@ -7,5 +7,6 @@ public class NameClass  implements Name{
     public static void main(String[] args) {
         NameClass nameCLass = new NameClass();
         nameCLass.details();
+        //Hello world
     }
 }
